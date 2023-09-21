@@ -1,0 +1,1 @@
+This is my HTML learning project for the Odin foundations course.
